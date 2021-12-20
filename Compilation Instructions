@@ -1,0 +1,4 @@
+mvn exec:java -Dexec.mainClass="bgu.spl.net.impl.BGRSServer.ReactorMain" -Dexec.args="7777 2"
+bin/BGRSclient 0.0.0.0 7777
+
+
